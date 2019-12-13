@@ -1,0 +1,218 @@
+[
+  {
+    "id": "10920",
+    "name": "Aliens",
+    "year": "1986",
+    "rank": "8.2"
+  },
+  {
+    "id": "17173",
+    "name": "Animal House",
+    "year": "1978",
+    "rank": "7.5"
+  },
+  {
+    "id": "18979",
+    "name": "Apollo 13",
+    "year": "1995",
+    "rank": "7.5"
+  },
+  {
+    "id": "30959",
+    "name": "Batman Begins",
+    "year": "2005",
+    "rank": null
+  },
+  {
+    "id": "46169",
+    "name": "Braveheart",
+    "year": "1995",
+    "rank": "8.3"
+  },
+  {
+    "id": "109093",
+    "name": "Fargo",
+    "year": "1996",
+    "rank": "8.2"
+  },
+  {
+    "id": "111813",
+    "name": "Few Good Men, A",
+    "year": "1992",
+    "rank": "7.5"
+  },
+  {
+    "id": "112290",
+    "name": "Fight Club",
+    "year": "1999",
+    "rank": "8.5"
+  },
+  {
+    "id": "116907",
+    "name": "Footloose",
+    "year": "1984",
+    "rank": "5.8"
+  },
+  {
+    "id": "124110",
+    "name": "Garden State",
+    "year": "2004",
+    "rank": "8.3"
+  },
+  {
+    "id": "130128",
+    "name": "Godfather, The",
+    "year": "1972",
+    "rank": "9"
+  },
+  {
+    "id": "147603",
+    "name": "Hollow Man",
+    "year": "2000",
+    "rank": "5.3"
+  },
+  {
+    "id": "167324",
+    "name": "JFK",
+    "year": "1991",
+    "rank": "7.8"
+  },
+  {
+    "id": "176711",
+    "name": "Kill Bill: Vol. 1",
+    "year": "2003",
+    "rank": "8.4"
+  },
+  {
+    "id": "176712",
+    "name": "Kill Bill: Vol. 2",
+    "year": "2004",
+    "rank": "8.2"
+  },
+  {
+    "id": "192017",
+    "name": "Little Mermaid, The",
+    "year": "1989",
+    "rank": "7.3"
+  },
+  {
+    "id": "194874",
+    "name": "Lost in Translation",
+    "year": "2003",
+    "rank": "8"
+  },
+  {
+    "id": "207992",
+    "name": "Matrix, The",
+    "year": "1999",
+    "rank": "8.5"
+  },
+  {
+    "id": "210511",
+    "name": "Memento",
+    "year": "2000",
+    "rank": "8.7"
+  },
+  {
+    "id": "224842",
+    "name": "Mystic River",
+    "year": "2003",
+    "rank": "8.1"
+  },
+  {
+    "id": "237431",
+    "name": "O Brother, Where Art Thou?",
+    "year": "2000",
+    "rank": "7.8"
+  },
+  {
+    "id": "238072",
+    "name": "Ocean's Eleven",
+    "year": "2001",
+    "rank": "7.5"
+  },
+  {
+    "id": "238695",
+    "name": "Office Space",
+    "year": "1999",
+    "rank": "7.6"
+  },
+  {
+    "id": "254943",
+    "name": "Pi",
+    "year": "1998",
+    "rank": "7.5"
+  },
+  {
+    "id": "256630",
+    "name": "Pirates of the Caribbean",
+    "year": "2003",
+    "rank": null
+  },
+  {
+    "id": "257264",
+    "name": "Planes, Trains & Automobiles",
+    "year": "1987",
+    "rank": "7.2"
+  },
+  {
+    "id": "267038",
+    "name": "Pulp Fiction",
+    "year": "1994",
+    "rank": "8.7"
+  },
+  {
+    "id": "276217",
+    "name": "Reservoir Dogs",
+    "year": "1992",
+    "rank": "8.3"
+  },
+  {
+    "id": "297838",
+    "name": "Shawshank Redemption, The",
+    "year": "1994",
+    "rank": "9"
+  },
+  {
+    "id": "300229",
+    "name": "Shrek",
+    "year": "2001",
+    "rank": "8.1"
+  },
+  {
+    "id": "306032",
+    "name": "Snatch.",
+    "year": "2000",
+    "rank": "7.9"
+  },
+  {
+    "id": "313459",
+    "name": "Star Wars",
+    "year": "1977",
+    "rank": "8.8"
+  },
+  {
+    "id": "314965",
+    "name": "Stir of Echoes",
+    "year": "1999",
+    "rank": "7"
+  },
+  {
+    "id": "333856",
+    "name": "Titanic",
+    "year": "1997",
+    "rank": "6.9"
+  },
+  {
+    "id": "344203",
+    "name": "UHF",
+    "year": "1989",
+    "rank": "6.6"
+  },
+  {
+    "id": "350424",
+    "name": "Vanilla Sky",
+    "year": "2001",
+    "rank": "6.9"
+  }
+]

@@ -1,0 +1,1427 @@
+[
+  {
+    "director_id": "429",
+    "genre": "Adventure",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "429",
+    "genre": "Music",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "429",
+    "genre": "Fantasy",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "429",
+    "genre": "Romance",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "429",
+    "genre": "Family",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "429",
+    "genre": "Comedy",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "429",
+    "genre": "Short",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "429",
+    "genre": "Animation",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Action",
+    "prob": "0.428571"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Horror",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Sci-Fi",
+    "prob": "0.428571"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Adventure",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Fantasy",
+    "prob": "0.285714"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Thriller",
+    "prob": "0.285714"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Crime",
+    "prob": "0.285714"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Comedy",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "2931",
+    "genre": "Drama",
+    "prob": "0.714286"
+  },
+  {
+    "director_id": "9247",
+    "genre": "Drama",
+    "prob": "1"
+  },
+  {
+    "director_id": "9247",
+    "genre": "Adventure",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "9247",
+    "genre": "Comedy",
+    "prob": "1"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Romance",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Sci-Fi",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Documentary",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Action",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Drama",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Adventure",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Fantasy",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Short",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Horror",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Thriller",
+    "prob": "0.416667"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Comedy",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "11652",
+    "genre": "Family",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Musical",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Sci-Fi",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Romance",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Mystery",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Fantasy",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Comedy",
+    "prob": "0.666667"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Animation",
+    "prob": "1"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Action",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Adventure",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "14927",
+    "genre": "Family",
+    "prob": "1"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Comedy",
+    "prob": "0.545455"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Crime",
+    "prob": "0.545455"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Fantasy",
+    "prob": "0.0909091"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Thriller",
+    "prob": "0.363636"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Adventure",
+    "prob": "0.0909091"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Romance",
+    "prob": "0.272727"
+  },
+  {
+    "director_id": "15092",
+    "genre": "Drama",
+    "prob": "0.454545"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Adventure",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Romance",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Crime",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Fantasy",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Comedy",
+    "prob": "0.583333"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Mystery",
+    "prob": "0.0833333"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Drama",
+    "prob": "0.416667"
+  },
+  {
+    "director_id": "15093",
+    "genre": "Thriller",
+    "prob": "0.416667"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Mystery",
+    "prob": "0.0689655"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Sci-Fi",
+    "prob": "0.137931"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Romance",
+    "prob": "0.103448"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Action",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Fantasy",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Musical",
+    "prob": "0.0689655"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Music",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Documentary",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Drama",
+    "prob": "0.689655"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Short",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Comedy",
+    "prob": "0.206897"
+  },
+  {
+    "director_id": "15901",
+    "genre": "War",
+    "prob": "0.0689655"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Adventure",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Crime",
+    "prob": "0.241379"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Western",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Thriller",
+    "prob": "0.172414"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Family",
+    "prob": "0.0344828"
+  },
+  {
+    "director_id": "15901",
+    "genre": "Horror",
+    "prob": "0.103448"
+  },
+  {
+    "director_id": "15906",
+    "genre": "Short",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "15906",
+    "genre": "Mystery",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "15906",
+    "genre": "Comedy",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "15906",
+    "genre": "Drama",
+    "prob": "1"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Romance",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Sci-Fi",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Thriller",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Comedy",
+    "prob": "0.666667"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Music",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Mystery",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "16816",
+    "genre": "Drama",
+    "prob": "1"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Fantasy",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Sci-Fi",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Horror",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Drama",
+    "prob": "0.666667"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Thriller",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Romance",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "17810",
+    "genre": "Short",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Crime",
+    "prob": "0.307692"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Sci-Fi",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Music",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Thriller",
+    "prob": "0.423077"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Western",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Comedy",
+    "prob": "0.192308"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Drama",
+    "prob": "0.769231"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Action",
+    "prob": "0.269231"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Romance",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Mystery",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "22104",
+    "genre": "War",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "22104",
+    "genre": "Adventure",
+    "prob": "0.115385"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Horror",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Documentary",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Short",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Music",
+    "prob": "0.4"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Sci-Fi",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Crime",
+    "prob": "0.3"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Mystery",
+    "prob": "0.3"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Drama",
+    "prob": "0.4"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Action",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Adventure",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Romance",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "24758",
+    "genre": "Thriller",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "28395",
+    "genre": "War",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "28395",
+    "genre": "Drama",
+    "prob": "1"
+  },
+  {
+    "director_id": "28395",
+    "genre": "Action",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Fantasy",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Family",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Action",
+    "prob": "0.269231"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Sci-Fi",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Western",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Comedy",
+    "prob": "0.461538"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Adventure",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Romance",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Thriller",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Mystery",
+    "prob": "0.115385"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Drama",
+    "prob": "0.576923"
+  },
+  {
+    "director_id": "35573",
+    "genre": "Short",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Romance",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Comedy",
+    "prob": "1"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Family",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Sci-Fi",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Drama",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "35838",
+    "genre": "Fantasy",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Fantasy",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Music",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Adventure",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Drama",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Comedy",
+    "prob": "1"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Family",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Animation",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Romance",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "37872",
+    "genre": "Short",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Short",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Comedy",
+    "prob": "0.888889"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Adventure",
+    "prob": "0.222222"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Animation",
+    "prob": "0.777778"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Crime",
+    "prob": "0.111111"
+  },
+  {
+    "director_id": "38746",
+    "genre": "Sci-Fi",
+    "prob": "0.111111"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Action",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Horror",
+    "prob": "0.6"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Mystery",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Drama",
+    "prob": "0.6"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Thriller",
+    "prob": "0.8"
+  },
+  {
+    "director_id": "41975",
+    "genre": "Short",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Western",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Documentary",
+    "prob": "0.230769"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Family",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Sci-Fi",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Musical",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Romance",
+    "prob": "0.153846"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Music",
+    "prob": "0.192308"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Fantasy",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Comedy",
+    "prob": "0.653846"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Drama",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Short",
+    "prob": "0.0769231"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Adventure",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Crime",
+    "prob": "0.0384615"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Horror",
+    "prob": "0.230769"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Action",
+    "prob": "0.115385"
+  },
+  {
+    "director_id": "44291",
+    "genre": "Thriller",
+    "prob": "0.192308"
+  },
+  {
+    "director_id": "46315",
+    "genre": "Comedy",
+    "prob": "1"
+  },
+  {
+    "director_id": "46315",
+    "genre": "Short",
+    "prob": "0.375"
+  },
+  {
+    "director_id": "46315",
+    "genre": "Animation",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "46315",
+    "genre": "Music",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Drama",
+    "prob": "0.176471"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Documentary",
+    "prob": "0.294118"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Short",
+    "prob": "0.588235"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Comedy",
+    "prob": "0.0588235"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Adventure",
+    "prob": "0.235294"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Fantasy",
+    "prob": "0.0588235"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Action",
+    "prob": "0.235294"
+  },
+  {
+    "director_id": "48115",
+    "genre": "Sci-Fi",
+    "prob": "0.352941"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Sci-Fi",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Romance",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Animation",
+    "prob": "1"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Family",
+    "prob": "1"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Musical",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Adventure",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Action",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Fantasy",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Mystery",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "56332",
+    "genre": "Comedy",
+    "prob": "0.666667"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Action",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Mystery",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Crime",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Drama",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Fantasy",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Adventure",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Thriller",
+    "prob": "0.666667"
+  },
+  {
+    "director_id": "58201",
+    "genre": "Short",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Comedy",
+    "prob": "0.642857"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Thriller",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Adventure",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Music",
+    "prob": "0.0714286"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Romance",
+    "prob": "0.428571"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Documentary",
+    "prob": "0.0714286"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Fantasy",
+    "prob": "0.0714286"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Drama",
+    "prob": "0.642857"
+  },
+  {
+    "director_id": "65940",
+    "genre": "Family",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Crime",
+    "prob": "0.714286"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Thriller",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Music",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Drama",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Documentary",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Short",
+    "prob": "0.428571"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Romance",
+    "prob": "0.142857"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Action",
+    "prob": "0.285714"
+  },
+  {
+    "director_id": "66849",
+    "genre": "Comedy",
+    "prob": "0.571429"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Romance",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Mystery",
+    "prob": "0.08"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Musical",
+    "prob": "0.16"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Drama",
+    "prob": "0.48"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Family",
+    "prob": "0.04"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Music",
+    "prob": "0.04"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Comedy",
+    "prob": "0.6"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Thriller",
+    "prob": "0.04"
+  },
+  {
+    "director_id": "68161",
+    "genre": "Crime",
+    "prob": "0.08"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Romance",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Documentary",
+    "prob": "0.0555556"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Action",
+    "prob": "0.0555556"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Drama",
+    "prob": "0.722222"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Short",
+    "prob": "0.0555556"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Comedy",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Thriller",
+    "prob": "0.277778"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Crime",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Sci-Fi",
+    "prob": "0.111111"
+  },
+  {
+    "director_id": "74758",
+    "genre": "Music",
+    "prob": "0.0555556"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Music",
+    "prob": "0.05"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Crime",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Action",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Romance",
+    "prob": "0.05"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Thriller",
+    "prob": "0.2"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Adventure",
+    "prob": "0.05"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Short",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Drama",
+    "prob": "0.65"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Documentary",
+    "prob": "0.15"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Horror",
+    "prob": "0.1"
+  },
+  {
+    "director_id": "76524",
+    "genre": "Mystery",
+    "prob": "0.05"
+  },
+  {
+    "director_id": "76524",
+    "genre": "War",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Romance",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "78273",
+    "genre": "War",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Action",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Thriller",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Mystery",
+    "prob": "0.125"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Crime",
+    "prob": "0.5"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Comedy",
+    "prob": "0.25"
+  },
+  {
+    "director_id": "78273",
+    "genre": "Drama",
+    "prob": "0.75"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Comedy",
+    "prob": "0.0434783"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Action",
+    "prob": "0.173913"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Documentary",
+    "prob": "0.0869565"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Horror",
+    "prob": "0.0434783"
+  },
+  {
+    "director_id": "82525",
+    "genre": "War",
+    "prob": "0.130435"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Mystery",
+    "prob": "0.0434783"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Short",
+    "prob": "0.26087"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Thriller",
+    "prob": "0.304348"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Adventure",
+    "prob": "0.0869565"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Drama",
+    "prob": "0.347826"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Sci-Fi",
+    "prob": "0.173913"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Romance",
+    "prob": "0.0434783"
+  },
+  {
+    "director_id": "82525",
+    "genre": "Crime",
+    "prob": "0.0869565"
+  },
+  {
+    "director_id": "83616",
+    "genre": "Crime",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "83616",
+    "genre": "Thriller",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "83616",
+    "genre": "Action",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "83616",
+    "genre": "Animation",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "83616",
+    "genre": "Sci-Fi",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "83617",
+    "genre": "Animation",
+    "prob": "0.333333"
+  },
+  {
+    "director_id": "83617",
+    "genre": "Crime",
+    "prob": "0.166667"
+  },
+  {
+    "director_id": "83617",
+    "genre": "Thriller",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "83617",
+    "genre": "Action",
+    "prob": "0.833333"
+  },
+  {
+    "director_id": "83617",
+    "genre": "Sci-Fi",
+    "prob": "0.833333"
+  }
+]

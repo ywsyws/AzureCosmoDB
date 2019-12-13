@@ -1,0 +1,414 @@
+[
+  {
+    "movie_id": "10920",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "10920",
+    "genre": "Horror"
+  },
+  {
+    "movie_id": "10920",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "10920",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "17173",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "18979",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "30959",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "30959",
+    "genre": "Adventure"
+  },
+  {
+    "movie_id": "30959",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "30959",
+    "genre": "Fantasy"
+  },
+  {
+    "movie_id": "30959",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "46169",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "46169",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "46169",
+    "genre": "War"
+  },
+  {
+    "movie_id": "109093",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "109093",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "109093",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "111813",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "111813",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "112290",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "112290",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "112290",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "112290",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "116907",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "116907",
+    "genre": "Family"
+  },
+  {
+    "movie_id": "116907",
+    "genre": "Music"
+  },
+  {
+    "movie_id": "124110",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "124110",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "130128",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "130128",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "147603",
+    "genre": "Horror"
+  },
+  {
+    "movie_id": "147603",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "147603",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "167324",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "167324",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "167324",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "167324",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "176711",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "176711",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "176711",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "176712",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "176712",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "176712",
+    "genre": "Romance"
+  },
+  {
+    "movie_id": "176712",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Animation"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Family"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Fantasy"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Musical"
+  },
+  {
+    "movie_id": "192017",
+    "genre": "Romance"
+  },
+  {
+    "movie_id": "194874",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "194874",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "207992",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "207992",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "207992",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "210511",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "210511",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "210511",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "224842",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "224842",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "224842",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "237431",
+    "genre": "Adventure"
+  },
+  {
+    "movie_id": "237431",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "237431",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "238072",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "238072",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "238072",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "238695",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "254943",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "254943",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "256630",
+    "genre": "Adventure"
+  },
+  {
+    "movie_id": "256630",
+    "genre": "Fantasy"
+  },
+  {
+    "movie_id": "257264",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "267038",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "267038",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "276217",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "276217",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "276217",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "276217",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "297838",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Adventure"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Animation"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Family"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Fantasy"
+  },
+  {
+    "movie_id": "300229",
+    "genre": "Romance"
+  },
+  {
+    "movie_id": "306032",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "306032",
+    "genre": "Crime"
+  },
+  {
+    "movie_id": "313459",
+    "genre": "Action"
+  },
+  {
+    "movie_id": "313459",
+    "genre": "Adventure"
+  },
+  {
+    "movie_id": "313459",
+    "genre": "Fantasy"
+  },
+  {
+    "movie_id": "313459",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "314965",
+    "genre": "Horror"
+  },
+  {
+    "movie_id": "314965",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "314965",
+    "genre": "Thriller"
+  },
+  {
+    "movie_id": "333856",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "333856",
+    "genre": "Romance"
+  },
+  {
+    "movie_id": "344203",
+    "genre": "Comedy"
+  },
+  {
+    "movie_id": "350424",
+    "genre": "Drama"
+  },
+  {
+    "movie_id": "350424",
+    "genre": "Mystery"
+  },
+  {
+    "movie_id": "350424",
+    "genre": "Romance"
+  },
+  {
+    "movie_id": "350424",
+    "genre": "Sci-Fi"
+  },
+  {
+    "movie_id": "350424",
+    "genre": "Thriller"
+  }
+]
